@@ -4,6 +4,28 @@ title: Blog
 ---
 
 <div class="container">
+	<h3> <strong>Service details</strong> </h3>
+
+{% for page in site.posts %}
+
+	<div class="blog-post">
+		<h4>
+		  <strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
+		</h4>
+	</div>
+
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<div class="blogpost">
+			  {{ page.content }}
+			   
+			</div>
+		</div>
+	</div>
+{% endfor %}
+</div>
+
+<!--<div class="container">
 <h3>Archive</h3>
   <div class="panel panel-default">
     <div class="panel-body">
@@ -23,4 +45,4 @@ title: Blog
 	    {% endfor %}
 	</div>
   </div>
-</div>
+</div> -->
