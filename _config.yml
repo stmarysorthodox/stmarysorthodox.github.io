@@ -1,21 +1,21 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: /:index.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 3000
 safe: true
 
-
-# edit here to achieve your personal greatness
 url: "http://stmarysorthodox.github.io"
 baseurl: ""
 title: St. Mary's Orthodox Congregation, Santa Cruz
 author: St. Mary's Orthodox Congregation, Santa Cruz
 description: Church website
 avatar: profile.png
+name: St. Mary's Orthodox Congregation, Santa Cruz
 email: stmarysorthodoxsc@gmail.com
+email_full: mailto:stmarysorthodoxsc@gmail.com
 
