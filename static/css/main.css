@@ -164,6 +164,12 @@ body {
   font-size: 18px;
 }
 
+.blogpost-text{
+  text-align: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+
 /* Footer 
 -------------------------------------------------- */
 
