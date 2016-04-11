@@ -1,6 +1,6 @@
 ---
 layout: postText
-title:  THE GREAT LENT 
+title:  THE GREAT LENT - Message by Alakot Achen
 tags:
 - Blog
 - Post
