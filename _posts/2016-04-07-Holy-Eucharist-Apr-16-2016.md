@@ -4,7 +4,14 @@ title:  Announcement - Holy Eucharist on April 16, 2016
 tags:
 ---
 
-<p><img src="assets/images/2016-04-16.png" alt="Holy Eucharist" /></p>
+<style>
+.resize {width:100%; height:auto;}
+</style>    
+
+<div class="wrapper">
+	<img class="resize" src="assets/images/2016-04-16.png" alt="Holy Eucharist" />
+</div>
+
 
 ## Third Sunday after New Sunday 
 
@@ -24,9 +31,9 @@ tags:
 	<br><br>
 
 	<strong>Holy Qurbana</strong> <br>
-	<a href="https://www.biblegateway.com/passage/?search=I+John+5%3A+13+-+21&version=NIV" target="_blank">I John 5: 13 - 21</a>
-	<a href="https://www.biblegateway.com/passage/?search=Hebrews+11%3A+3-6&version=NIV" target="_blank">Hebrews 11: 3-6</a>
-	<a href="https://www.biblegateway.com/passage/?search=Luke+24+%3A+13+-+35&version=NIV" target="_blank">St. Luke 24 : 13 - 35</a>
+	<a href="https://www.biblegateway.com/passage/?search=I+John+5%3A+13+-+21&version=NIV" target="_blank">I John 5: 13 - 21</a><br>
+	<a href="https://www.biblegateway.com/passage/?search=Hebrews+11%3A+3-6&version=NIV" target="_blank">Hebrews 11: 3-6</a><br>
+	<strong><a href="https://www.biblegateway.com/passage/?search=Luke+24+%3A+13+-+35&version=NIV" target="_blank">St. Luke 24 : 13 - 35</a></strong>
 
 </div>
 
