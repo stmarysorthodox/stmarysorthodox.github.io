@@ -1,9 +1,9 @@
 ---
 layout: postText
-title:  THE GREAT LENT - Message by Alakot Achen
-tags:
-- Blog
-- Post
+category: article
+title:  'THE GREAT LENT - Message by Alakot Achen'
+date: 2016-02-12 22:35
+
 ---
 
 The syriac word for Lent is **_Soumo_**, in Latin  it is **Quadragesima** which means forty. In English the word ‘Lenten’ refers to the days growing longer during the season of spring. Forty days has multiple significance in the Scriptures. Moses, Elia and our Lord fasted for forty days. Fasting and overcoming temptations is a way of purification and strengthening us for our earthly missions. Moses and Elia spoke to our Lord at his transfiguration about his coming passion and death. For Orthodox Christians Lent begins eighteen days after the three days Nineveh fasting and ends on the fortieth day which is the Friday before Palm Sunday. During the following ten days we commemorate the events preceding and including the Passion of our Lord. The  Orthodox  Church observes fifty days in preparation for the Resurrection of our Lord.   

@@ -1,7 +1,7 @@
 ---
 layout: post
+category: announcement
 title:  Announcement - Holy Eucharist on April 16, 2016
-tags:
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-title:  Announcement - Holy Eucharist on July 16, 2016
+title:  Announcement - Holy Eucharist on August 20, 2016
 tags:
 ---
 
@@ -10,7 +10,7 @@ tags:
 </style>    
 
 <div class="wrapper">
-	<img class="resize" src="assets/images/2016-07-16.png" alt="Holy Eucharist" />
+	<img class="resize" src="assets/images/2016-08-20.png" alt="Holy Eucharist" />
 </div>
 
 <hr>

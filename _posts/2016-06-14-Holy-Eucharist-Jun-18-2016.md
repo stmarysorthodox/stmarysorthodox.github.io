@@ -1,7 +1,7 @@
 ---
 layout: post
+category: announcement
 title:  Announcement - Holy Eucharist on June 18, 2016
-tags:
 ---
 
 <style>
@@ -14,30 +14,7 @@ tags:
 
 <hr>
 
-### Fifth Sunday after Pentecost
 
-
-### **Readings**
-
-**Evening**
-
-* St. Luke 9: 10 – 17
-        
-**Morning**
-
-* St. Matthew 17 : 20 – 28
-
-**Before Holy Qurbana**
-
-* Exodus23: 14-19
-* Psalms 16
-* Isaiah40: 27-31
-
-**Holy Qurbana**
-
-* Acts 9:10-18
-* II Corinthians 5: 14-20
-* St. Luke9:10-17
 
 
 
