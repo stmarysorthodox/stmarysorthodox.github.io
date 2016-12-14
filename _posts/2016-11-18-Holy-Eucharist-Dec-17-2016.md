@@ -10,7 +10,7 @@ tags:
 </style>    
 
 <div class="wrapper">
-	<img class="resize" src="assets/images/2016-11-18.png" alt="Holy Eucharist" />
+	<img class="resize" src="assets/images/2016-12-12.png" alt="Holy Eucharist" />
 </div>
 
 <hr>
